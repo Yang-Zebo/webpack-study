@@ -1,0 +1,10 @@
+.color-red {
+  color: red;
+  display: flex;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background-image: url("../images/thinks.png");
+  background-size: cover;
+}
